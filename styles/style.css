@@ -295,6 +295,7 @@ span {
 .Deals-Discounts-div {
     text-align: center;
     margin-top: 100px;
+   
 }
 
 .Deals-Discounts-div h3 {
@@ -553,4 +554,149 @@ hr {
 
 .Bandarban {
     position: relative;
+}
+.mount img{
+    height: 500px;
+    width: 500px;
+}
+.parsonal-div{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+.fa-bars {
+    display: none;
+  }
+
+
+@media screen and (max-width:600px) {
+
+
+    .ul a {
+        display:none;
+    }
+    .fa-bars {
+        display: inline;
+      }
+
+
+      .banner-img{
+
+
+        width:335%;
+        margin-left:1rem;
+      }
+
+      .from {
+        
+        flex-direction: column;
+        
+    }
+    .section-2 {
+      flex-direction: column;
+      width:215%;
+      padding-left: 78%;
+    }
+
+
+    .place-div {
+        padding-left: 118%;
+        width: 100%;
+    }
+
+    .place-1 {
+       flex-direction: column;
+       margin-left: 166%;
+    }
+    .place-2 {
+        flex-direction: column;
+        margin-left: 166%;
+     }
+     .place-3 {
+        flex-direction: column;
+        margin-left: 166%;
+     }
+
+
+     .section4-div-title {
+        margin-left: 22rem;
+        width:100%;
+    }
+
+     .place img {
+
+        width:517px;
+     }
+
+
+     .section4-div {
+        flex-direction: column;
+        margin-left: 15rem;
+    }
+
+
+    .section4-price {
+        
+        margin-left: 246px;
+        
+    }
+
+    .Deals-Discounts-div{
+
+
+
+        width:100%;
+    }
+
+
+    /* .rec-12-1 >img {
+        width:100%;
+    } */
+
+    .section-5-div{
+
+        flex-direction: column;
+    }
+
+   
+
+    .shams{
+
+    margin-top: 38rem;
+    margin-left: 25rem;
+    width:100%;
+
+
+    } 
+
+    .shams2{
+
+
+        margin-top:4rem;
+        margin-left:16rem;
+    } 
+
+
+
+    .section6-div{
+
+
+        flex-direction: column;
+    }
+
+
+    .parsonal-div {
+       flex-direction: column;
+    }
+
+
+
+
+
+
+
+
 }
