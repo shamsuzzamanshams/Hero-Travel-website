@@ -649,6 +649,7 @@ hr {
 
 
         width:100%;
+        margin-left: 261%;
     }
 
 
@@ -666,8 +667,9 @@ hr {
     .shams{
 
     margin-top: 38rem;
-    margin-left: 25rem;
+    margin-left: 30rem;
     width:100%;
+    
 
 
     } 
@@ -676,7 +678,7 @@ hr {
 
 
         margin-top:4rem;
-        margin-left:16rem;
+        margin-left:21rem;
     } 
 
 
@@ -694,7 +696,95 @@ hr {
 
 
 
+    .News {
+       margin-left: 23rem;
+       width:123%;
+       height:380px;
+    }
 
+
+    .placeholder button {
+        margin-top: 7px;
+        width: 250px;
+        position: relative;
+        
+        
+    }
+
+
+    .seb-pic{
+
+
+        margin-left: 16rem;
+    }
+
+    .submit {
+  
+        left: 385%;
+       
+    }
+    .mount img {
+        margin-left: 94%;
+        background-size: cover;
+    }
+
+.footer{
+
+    width:352%;
+   
+
+}
+
+.ytp-cued-thumbnail-overlay-image {
+    left: 50%;
+}
+
+
+.rec-12 {
+    height:auto;
+  width:50%;
+}
+
+.Deals-Discounts {
+    margin-top: 13rem;
+    /* background-color: #FF5400; */
+    margin-left: 22px;
+    margin-right: 135px;
+    height: 1800px;
+    /* position: absolute; */
+}
+
+.rec-12-div , .rec-12-div-2, .rec-12-div-3{
+    width: 349px;
+    height: 288px;
+   
+    padding-left: 23px;
+    padding-top: 14px;
+    padding-bottom: 44px;
+    top: -405px;
+    left: 411px;
+    margin-bottom: 3rem;
+}
+
+
+
+.sha{
+
+
+    
+    width: 991%;
+    height: 27rem;
+    margin-left: 132%;
+    margin-bottom: 0%;
+
+
+}
+
+.shaa{
+
+    width: 517%;
+    margin-left: 58%;
+}
 
 
 
